@@ -1,6 +1,6 @@
 # tools
 
-A list of tools that are useful for web development.
+A list of development tools I've built or used.
 
 ## built
 
