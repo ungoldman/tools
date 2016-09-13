@@ -14,6 +14,5 @@ A list of development tools I've built or used.
 
 - https://github.com/feross/standard
 - https://github.com/henrikjoreteg/fixpack
-- https://github.com/finnp/node-travisjs
-- https://github.com/meandavejustice/gh-pages-deploy
-- https://github.com/maxogden/collaborator
+- https://www.npmjs.com/package/gh-pages
+- https://github.com/tapio/live-server
