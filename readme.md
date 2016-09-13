@@ -17,5 +17,5 @@ A list of software development tools I've built or used.
 - https://www.npmjs.com/package/standard
 - https://www.npmjs.com/package/fixpack
 - https://www.npmjs.com/package/gh-pages
-- https://www.npmjs.com/package/live-server
-- https://www.npmjs.com/package/auto-install
+- https://github.com/tapio/live-server
+- https://github.com/mysticatea/npm-run-all
