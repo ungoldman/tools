@@ -1,8 +1,10 @@
 # tools
 
-A list of development tools I've built or used.
+A list of software development tools I've built or used.
 
-## built
+## node
+
+### built
 
 - https://www.npmjs.com/package/module-init
 - https://www.npmjs.com/package/init-module
@@ -10,7 +12,7 @@ A list of development tools I've built or used.
 - https://www.npmjs.com/package/contribs
 - https://www.npmjs.com/package/sitedown
 
-## recommended
+### recommended
 
 - https://www.npmjs.com/package/standard
 - https://www.npmjs.com/package/fixpack
